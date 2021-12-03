@@ -6,7 +6,7 @@ namespace AdventOfCode21
     {
         static void Main(string[] args)
         {
-            Day01.Part2();
+            Day02.Part2();
         }
     }
 }
